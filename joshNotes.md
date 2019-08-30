@@ -8,4 +8,4 @@
 | 3003        | AboutGame       | Josh     |
 | 3004        | TopReviews      | Josh     |
 | 3005        | RecentUpdat     | Josh     |
-| 3006        | Proxy           | N/A      |`
+| 3006        | Proxy           | N/A      |
